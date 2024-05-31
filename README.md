@@ -15,31 +15,35 @@ Transparency: Enhance supply chain transparency and accountability.
 
 # Prerequisities
 Node.js
+
 Truffle
+
 Ganache
+
 MetaMask
+
 Ethereum wallet
 
 Steps
 1.Clone the Repository
 
-git clone https://github.com/abhishekalandikar/counterfeit-product-identification-for-pharmaceuticals.git
+=> git clone https://github.com/abhishekalandikar/counterfeit-product-identification-for-pharmaceuticals.git
 
-cd counterfeit-product-identification
+=> cd counterfeit-product-identification
 
 2.Install dependencies
 
-npm install
+=> npm install
 
 3.Compile Smart Contracts
 
-truffle compile
+=> truffle compile
 
 4.Migrate Smart Contracts
 
-truffle migrate
+=> truffle migrate
 
 5.Run the Application
 
-npm start
+=> npm start
 
